@@ -1,12 +1,12 @@
-1. Create Repository 2202030430102
-Go to GitHub and create a new repository named 2202030430102.
+1. Create Repository 2202030430108
+Go to GitHub and create a new repository named 2202030430108.
 Clone this repository to your local machine using the command:
-git clone https://github.com/your-username/2202030430102.git
+git clone https://github.com/your-username/2202030430108.git
 Replace your-username with your GitHub username.
 
 2. Create Repository with Your Enrollment Number
-Navigate into the cloned repository (2202030430102).
-Create a new directory with your enrollment number (e.g., 2202030430102).
+Navigate into the cloned repository (2202030430108).
+Create a new directory with your enrollment number (e.g., 2202030430108).
 Navigate into this directory.
 
 3. Initialize Repository and Create Folders
