@@ -1,0 +1,351 @@
+.contact-us1,
+.logo-here {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+}
+.contact-us1 {
+  font-weight: 700;
+}
+.subject-select {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  margin-top: -1px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--nav-1);
+}
+.contact-us-text,
+.logo-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.contact-us-text {
+  width: 463px;
+  flex-direction: column;
+}
+.logo-container {
+  align-self: stretch;
+  flex-direction: row;
+}
+.any-question-or {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  font-family: var(--nav-1);
+  color: var(--color-dimgray);
+  text-align: center;
+  display: inline-block;
+  max-width: 100%;
+}
+.input-group,
+.logo-container-parent {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.logo-container-parent {
+  width: 573px;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 10px 0;
+}
+.input-group {
+  width: 660px;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.frame-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 0 0 60px 30px rgba(0, 0, 0, 0.03);
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.image-1-icon {
+  position: absolute;
+  top: 80px;
+  left: 30px;
+  width: 475px;
+  height: 475px;
+  object-fit: cover;
+  z-index: 1;
+}
+.frame-item,
+.message-container-icon {
+  position: absolute;
+  top: 115px;
+  left: 571px;
+  width: 278px;
+  height: 1px;
+  z-index: 2;
+}
+.frame-item {
+  top: 92px;
+  left: 576px;
+  width: 1px;
+  height: 11.5px;
+}
+.first-name {
+  top: 60px;
+  line-height: 20px;
+  font-weight: 500;
+  color: var(--color-gray-200);
+}
+.email,
+.first-name,
+.message-container-icon1 {
+  position: absolute;
+  left: 571px;
+  z-index: 2;
+}
+.message-container-icon1 {
+  top: 215px;
+  width: 278px;
+  height: 1px;
+}
+.email {
+  top: 160px;
+  line-height: 20px;
+  font-weight: 500;
+  color: var(--color-gray-200);
+}
+.last-name,
+.message-container-icon2 {
+  position: absolute;
+  left: 900px;
+  z-index: 2;
+}
+.message-container-icon2 {
+  top: 115px;
+  width: 278px;
+  height: 1px;
+}
+.last-name {
+  top: 60px;
+  line-height: 20px;
+  font-weight: 500;
+}
+.message-container-icon3 {
+  position: absolute;
+  top: 416px;
+  left: 571px;
+  width: 595px;
+  height: 1px;
+  z-index: 2;
+}
+.message,
+.write-your-message {
+  position: absolute;
+  top: 360px;
+  left: 571px;
+  line-height: 20px;
+  font-weight: 500;
+  color: var(--color-gray-200);
+  z-index: 2;
+}
+.write-your-message {
+  top: 385.5px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  width: 149px;
+  height: 20.4px;
+}
+.message-container-icon4 {
+  position: absolute;
+  top: 215px;
+  left: 900px;
+  width: 278px;
+  height: 1px;
+  z-index: 2;
+}
+.phone-number {
+  position: absolute;
+  top: 160px;
+  left: 900px;
+  line-height: 20px;
+  font-weight: 500;
+  z-index: 2;
+}
+.general-inquiry,
+.select-subject {
+  position: absolute;
+  line-height: 20px;
+  display: inline-block;
+  height: 20.4px;
+  z-index: 2;
+}
+.select-subject {
+  top: 260px;
+  left: 571px;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  width: 109px;
+}
+.general-inquiry {
+  top: 294.6px;
+  left: 594px;
+  width: 92px;
+}
+.teenyiconstick-circle-solid {
+  position: absolute;
+  top: 298.7px;
+  left: 571px;
+  width: 13px;
+  height: 13.2px;
+  overflow: hidden;
+  z-index: 2;
+}
+.user-complaint {
+  position: absolute;
+  top: 295px;
+  left: 737px;
+  line-height: 20px;
+  display: inline-block;
+  width: 99px;
+  height: 20px;
+  z-index: 2;
+}
+.teenyiconstick-circle-solid1 {
+  position: absolute;
+  top: 298.7px;
+  left: 710px;
+  width: 13px;
+  height: 13.2px;
+  overflow: hidden;
+  z-index: 2;
+}
+.bug {
+  position: absolute;
+  top: 294.6px;
+  left: 876px;
+  line-height: 20px;
+  display: inline-block;
+  width: 92px;
+  height: 20.4px;
+  z-index: 2;
+}
+.teenyiconstick-circle-solid2 {
+  position: absolute;
+  top: 298.7px;
+  left: 853px;
+  width: 13px;
+  height: 13.2px;
+  overflow: hidden;
+  z-index: 2;
+}
+.send-message {
+  position: relative;
+  font-size: var(--nav-1-size);
+  font-weight: 500;
+  font-family: var(--nav-1);
+  color: var(--color-white);
+  text-align: center;
+}
+.send-text-button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mini) var(--padding-29xl);
+  background-color: var(--color-black);
+  position: absolute;
+  top: 461px;
+  left: 968px;
+  border-radius: var(--br-8xs);
+  box-shadow: 0 0 14px rgba(0, 0, 0, 0.12);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+  z-index: 2;
+}
+.send-text-button:hover {
+  background-color: var(--b2);
+}
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 0 0 60px 30px rgba(0, 0, 0, 0.03);
+  width: 100%;
+  height: 667px;
+}
+.letter-send-1-icon {
+  position: absolute;
+  top: 488px;
+  left: 825.9px;
+  width: 264.8px;
+  height: 217px;
+  object-fit: contain;
+  z-index: 3;
+}
+.contact-us,
+.form-frame {
+  position: relative;
+  text-align: left;
+}
+.form-frame {
+  width: 1196px;
+  height: 705px;
+  max-width: 100%;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--nav-1);
+}
+.contact-us {
+  width: 100%;
+  background-color: var(--color-gray-100);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-83xl) 68px 443px var(--padding-xl);
+  box-sizing: border-box;
+  gap: 50px 0;
+  letter-spacing: normal;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1200px) {
+  .contact-us {
+    padding-right: 34px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .logo-here {
+    font-size: var(--font-size-10xl);
+  }
+  .contact-us1 {
+    font-size: var(--font-size-13xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .contact-us {
+    gap: 50px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .logo-here {
+    font-size: var(--font-size-3xl);
+  }
+  .contact-us1 {
+    font-size: var(--font-size-5xl);
+  }
+}

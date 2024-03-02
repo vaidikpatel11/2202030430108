@@ -1,0 +1,678 @@
+.home {
+    height: 28px;
+    display: inline-block;
+    white-space: nowrap;
+  }
+  .explore,
+  .home {
+    position: relative;
+    letter-spacing: 0.08em;
+  }
+  .about-us {
+    height: 28px;
+    display: inline-block;
+  }
+  .about-us,
+  .contact-us {
+    position: relative;
+    letter-spacing: 0.08em;
+    white-space: nowrap;
+  }
+  .frame-wrapper,
+  .home-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .home-parent {
+    margin: 0;
+    flex: 1;
+    justify-content: space-between;
+    gap: var(--gap-xl);
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-black);
+    font-family: var(--font-source-sans-3);
+  }
+  .frame-wrapper {
+    width: 509px;
+    justify-content: flex-start;
+    padding: 0 var(--padding-6xs) 0 0;
+    box-sizing: border-box;
+  }
+  .sign-in-to,
+  .start-sharing-skills {
+    margin: 0;
+  }
+  .sign-in-to-container {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 500;
+    font-family: inherit;
+    display: inline-block;
+    max-width: 100%;
+  }
+  .register-here {
+    color: #eaffd0;
+  }
+  .if-you-dont-container {
+    position: relative;
+  }
+  .cloud-bg-frame,
+  .sign-in-to-start-sharing-skill-parent {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .cloud-bg-frame {
+    flex-direction: row;
+    padding: 0 0 0 var(--padding-6xs);
+    font-size: var(--font-size-xl);
+  }
+  .sign-in-to-start-sharing-skill-parent {
+    flex-direction: column;
+    padding: 0 var(--padding-xl) 0 0;
+    box-sizing: border-box;
+    gap: 5px 0;
+    max-width: 100%;
+  }
+  .cloud-bg-icon,
+  .man-icon {
+    position: absolute;
+    top: 152.4px;
+    left: 155.5px;
+    width: 307.2px;
+    height: 341.7px;
+  }
+  .man-icon {
+    top: 215.3px;
+    left: 113.9px;
+    width: 414px;
+    height: 308.7px;
+    z-index: 1;
+  }
+  .heart-icon,
+  .rop-icon {
+    position: absolute;
+    top: 78.6px;
+    left: 451.7px;
+    width: 79px;
+    height: 74px;
+  }
+  .rop-icon {
+    top: 78.8px;
+    left: 58.6px;
+    width: 98.3px;
+    height: 91px;
+    z-index: 1;
+  }
+  .dumbbell-icon {
+    position: absolute;
+    top: 245.8px;
+    left: 0;
+    width: 113.9px;
+    height: 68px;
+  }
+  .xmlid-204-icon,
+  .xmlid-37-icon {
+    position: absolute;
+    top: 0;
+    left: 265.5px;
+    width: 66.4px;
+    height: 93.6px;
+  }
+  .xmlid-37-icon {
+    top: 6.8px;
+    left: 336.5px;
+    width: 9.3px;
+    height: 10.8px;
+  }
+  .bicep-icon,
+  .cloud-bg-parent {
+    position: absolute;
+    top: 215.5px;
+    left: 528px;
+    width: 85.8px;
+    height: 90.9px;
+  }
+  .cloud-bg-parent {
+    width: 100%;
+    top: 0;
+    right: -0.2px;
+    left: 0;
+    height: 100%;
+  }
+  .mann {
+    height: 524px;
+    width: 613.8px;
+    position: relative;
+    max-width: 100%;
+  }
+  .rop-frame,
+  .sign-in-button {
+    align-self: stretch;
+    align-items: flex-start;
+  }
+  .rop-frame {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    max-width: 100%;
+  }
+  .sign-in-button {
+    gap: 43px 0;
+  }
+  .frame-parent,
+  .sign-in-button,
+  .sign-in-inner {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .frame-parent {
+    align-self: stretch;
+    align-items: center;
+    gap: 56px 0;
+  }
+  .sign-in-inner {
+    width: 721px;
+    align-items: flex-start;
+    padding: 26px 0 0;
+    box-sizing: border-box;
+    min-width: 721px;
+  }
+  .home-frame-child {
+    width: 844px;
+    height: 982px;
+    position: relative;
+    border-radius: var(--br-22xl);
+    background-color: var(--f-w);
+    display: none;
+    max-width: 100%;
+  }
+  .sign-in1 {
+    margin: 0;
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+    font-size: inherit;
+    letter-spacing: 0.08em;
+    font-weight: 600;
+    font-family: inherit;
+    z-index: 1;
+  }
+  .sign-in-text {
+    width: 232px;
+    height: 154px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-mid) 106px;
+    box-sizing: border-box;
+    font-size: var(--font-size-29xl);
+    font-family: var(--font-source-sans-3);
+  }
+  .enter-name-child {
+    position: absolute;
+    height: 77.92%;
+    width: 100%;
+    top: 10.39%;
+    right: 0;
+    bottom: 11.69%;
+    left: 0;
+    border-radius: var(--br-3xs);
+    background-color: var(--g4);
+  }
+  .enter-email,
+  .x-icon {
+    position: absolute;
+    z-index: 1;
+  }
+  .enter-email {
+    border: 0;
+    outline: 0;
+    font-family: var(--validation);
+    font-size: var(--input-size);
+    background-color: transparent;
+    top: 0;
+    left: 5%;
+    letter-spacing: 0.09em;
+    line-height: 77px;
+    color: var(--poppins);
+    text-align: left;
+  }
+  .x-icon {
+    height: 31.17%;
+    width: 6%;
+    top: 33.77%;
+    right: 5.75%;
+    bottom: 35.06%;
+    left: 88.25%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .enter-name {
+    height: 77px;
+    flex: 1;
+    position: relative;
+    max-width: 100%;
+  }
+  .credentials {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    max-width: 100%;
+    z-index: 1;
+  }
+  .password-child {
+    position: absolute;
+    height: 77.92%;
+    width: 100%;
+    top: 10.39%;
+    right: 0;
+    bottom: 11.69%;
+    left: 0;
+    border-radius: var(--br-3xs);
+    background-color: var(--g4);
+  }
+  .input,
+  .x-icon1 {
+    position: absolute;
+    top: 33.77%;
+    z-index: 1;
+  }
+  .input {
+    border: 0;
+    outline: 0;
+    font-family: var(--validation);
+    font-size: 26px;
+    background-color: transparent;
+    left: 5%;
+    line-height: 24px;
+    color: var(--poppins);
+    text-align: left;
+  }
+  .x-icon1 {
+    height: 31.17%;
+    width: 6%;
+    right: 6%;
+    bottom: 35.06%;
+    left: 88%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .password {
+    height: 77px;
+    flex: 1;
+    position: relative;
+    max-width: 100%;
+  }
+  .credentials1 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    max-width: 100%;
+    z-index: 3;
+  }
+  .sign-up-instance {
+    position: absolute;
+    top: 150.2px;
+    left: 240px;
+    width: 1.6px;
+    height: 344.3px;
+    z-index: 2;
+  }
+  .facebook-sign-up-instance {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 199.9px;
+    height: 284.6px;
+    z-index: 1;
+  }
+  .search-facebook-text,
+  .vectors-row-icon {
+    position: absolute;
+    top: 176.2px;
+    left: 100px;
+    width: 41.2px;
+    height: 41px;
+    z-index: 3;
+  }
+  .vectors-row-icon {
+    top: 217.8px;
+    left: 33.7px;
+    width: 67.9px;
+    height: 67.5px;
+  }
+  .login-fields {
+    position: absolute;
+    top: 0;
+    left: 140px;
+    width: 200px;
+    height: 285px;
+  }
+  .password-input-icon {
+    position: absolute;
+    top: 493.3px;
+    left: 0;
+    width: 329.1px;
+    height: 2.3px;
+    z-index: 3;
+  }
+  .search-frame {
+    height: 496px;
+    width: 340px;
+    position: absolute;
+    margin: 0 !important;
+    right: -99px;
+    bottom: -423px;
+  }
+  .recover-password {
+    height: 86px;
+    position: relative;
+    letter-spacing: 0.02em;
+    line-height: 77px;
+    display: inline-block;
+    z-index: 2;
+  }
+  .or-continue-with-text {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: relative;
+    margin-top: -26px;
+  }
+  .credentials-group,
+  .credentials-parent {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .credentials-group {
+    align-self: stretch;
+    align-items: flex-end;
+  }
+  .credentials-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    align-items: flex-start;
+    padding: 0 var(--padding-12xs) 0 0;
+    box-sizing: border-box;
+    gap: 22px 0;
+  }
+  .create-an-account {
+    position: relative;
+    letter-spacing: 0.09em;
+    line-height: 77px;
+    font-weight: 600;
+  }
+  .button {
+    position: absolute;
+    top: 228px;
+    left: 5px;
+    border-radius: var(--br-3xs);
+    background-color: var(--p);
+    width: 384px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    white-space: nowrap;
+    z-index: 3;
+    font-size: var(--font-size-xl);
+    color: var(--color-black);
+    font-family: var(--font-source-sans-3);
+  }
+  .frame-group {
+    height: 305px;
+    flex: 1;
+    position: relative;
+    max-width: 100%;
+  }
+  .password-instance {
+    width: 491px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-26xl);
+    box-sizing: border-box;
+    max-width: 100%;
+    color: var(--b6);
+  }
+  .divider-child {
+    height: 1px;
+    width: 120px;
+    position: relative;
+    border-top: 1px solid var(--color-gainsboro-200);
+    box-sizing: border-box;
+    z-index: 1;
+  }
+  .or-continue-with {
+    position: relative;
+    letter-spacing: 0.09em;
+    line-height: 77px;
+    z-index: 1;
+  }
+  .divider-item {
+    height: 1px;
+    width: 120px;
+    position: relative;
+    border-top: 1px solid var(--color-gainsboro-200);
+    box-sizing: border-box;
+    z-index: 2;
+  }
+  .divider,
+  .divider-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .divider {
+    align-items: center;
+    gap: 0 19.5px;
+  }
+  .divider-wrapper {
+    align-items: flex-start;
+    padding: 0 var(--padding-mid) 23px;
+    box-sizing: border-box;
+    color: var(--color-darkgray-100);
+  }
+  .search-1-icon {
+    height: 25px;
+    width: 25px;
+    position: relative;
+    object-fit: cover;
+  }
+  .sign-up-with {
+    height: 40px;
+    position: relative;
+    font-size: var(--font-size-sm);
+    font-family: var(--font-source-sans-3);
+    color: var(--color-black);
+    text-align: left;
+    display: flex;
+    align-items: center;
+  }
+  .search-and-facebook-buttons {
+    cursor: pointer;
+    border: 0;
+    padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+    background-color: var(--color-white);
+    border-radius: var(--br-3xs);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0 8px;
+    white-space: nowrap;
+  }
+  .search-and-facebook-buttons1:hover,
+  .search-and-facebook-buttons:hover {
+    background-color: var(--color-gainsboro-100);
+  }
+  .facebook-1-icon {
+    height: 25px;
+    width: 25px;
+    position: relative;
+    object-fit: cover;
+  }
+  .sign-up-with1 {
+    height: 40px;
+    position: relative;
+    font-size: var(--font-size-sm);
+    font-family: var(--font-source-sans-3);
+    color: var(--color-black);
+    text-align: left;
+    display: flex;
+    align-items: center;
+  }
+  .search-and-facebook-buttons1 {
+    cursor: pointer;
+    border: 0;
+    padding: 0 var(--padding-5xl) 0 var(--padding-xl);
+    background-color: var(--color-white);
+    border-radius: var(--br-3xs);
+    flex-direction: row;
+    align-items: center;
+    gap: 0 8px;
+    white-space: nowrap;
+  }
+  .home-frame,
+  .search-and-facebook-buttons1,
+  .sign-in,
+  .sign-up {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .sign-up {
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 0 47px;
+    max-width: 100%;
+    z-index: 3;
+  }
+  .home-frame,
+  .sign-in {
+    box-sizing: border-box;
+  }
+  .home-frame {
+    margin-left: 1006px;
+    margin-right: -169px;
+    width: 844px;
+    border-radius: var(--br-22xl);
+    background-color: var(--f-w);
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 77px var(--padding-72xl) 216px;
+    gap: 30px 0;
+    min-width: 844px;
+    max-width: 100%;
+    flex-shrink: 0;
+    font-size: var(--font-size-sm);
+    color: var(--p);
+  }
+  .sign-in {
+    width: 100%;
+    position: relative;
+    border-radius: var(--br-3xs);
+    background-color: var(--p);
+    box-shadow: 6px 6px 11px rgba(160, 160, 160, 0.5);
+    overflow: hidden;
+    flex-direction: row;
+    align-items: center;
+    padding: 0 0 0 71px;
+    gap: 0 45px;
+    letter-spacing: normal;
+    text-align: left;
+    font-size: var(--font-size-29xl);
+    color: var(--color-black);
+    font-family: var(--validation);
+  }
+  @media screen and (max-width: 1200px) {
+    .home-frame,
+    .sign-in-inner {
+      min-width: 100%;
+    }
+  }
+  @media screen and (max-width: 1050px) {
+    .home-frame,
+    .sign-in-inner {
+      flex: 1;
+    }
+    .sign-in {
+      flex-wrap: wrap;
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      padding-bottom: var(--padding-xl);
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 750px) {
+    .sign-in-to-container {
+      font-size: var(--font-size-19xl);
+    }
+    .sign-in-button {
+      gap: 43px 0;
+    }
+    .frame-parent {
+      gap: 56px 0;
+    }
+    .sign-in1 {
+      font-size: var(--font-size-19xl);
+    }
+    .password-instance {
+      padding-left: var(--padding-3xl);
+      padding-right: var(--padding-3xl);
+      box-sizing: border-box;
+    }
+    .sign-up {
+      flex-wrap: wrap;
+    }
+    .home-frame {
+      gap: 30px 0;
+      padding: 50px var(--padding-26xl) 140px;
+      box-sizing: border-box;
+    }
+    .sign-in {
+      gap: 0 45px;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .sign-in-to-container {
+      font-size: var(--font-size-10xl);
+    }
+    .if-you-dont-container {
+      font-size: var(--label-size);
+    }
+    .sign-in1 {
+      font-size: var(--font-size-10xl);
+    }
+    .input {
+      font-size: 21px;
+      line-height: 19px;
+    }
+    .sign-up {
+      gap: 0 47px;
+    }
+    .home-frame {
+      padding: 32px var(--padding-xl) var(--padding-72xl);
+      box-sizing: border-box;
+    }
+  }

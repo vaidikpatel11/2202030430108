@@ -1,0 +1,45 @@
+/* body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-source-sans-3: "Source Sans 3";
+    --validation: Poppins;
+    --font-advent-pro: "Advent Pro";
+  
+    /* font sizes */
+    --font-size-sm: 14px;
+    --font-size-xl: 20px;
+    --input-size: 18px;
+    --font-size-29xl: 48px;
+    --font-size-10xl: 29px;
+    --font-size-19xl: 38px;
+    --label-size: 16px;
+    --font-size-mid: 17px;
+    --font-size-lgi: 19px;
+    --font-size-5xl: 24px;
+    --validation-size: 12px;
+  
+    /* Colors */
+    --p: #f38181;
+    --f-w: #fbf8f3;
+    --color-white: #fff;
+    --color-gainsboro-100: #e6e6e6;
+    --layout-300: #e1e1e1;
+    --color-gainsboro-200: #dfdfdf;
+    --color-black: #000;
+    --color-darkgray-100: #acadac;
+    --poppins: #a0a0a0;
+    --b6: #c7c7c7;
+    --g4: #efefef;
+    --color-gray-100: #232222;
+    --layout-800: #1a1a1a;
+    --b2: #333;
+    --p1: #00a0b1;
+    --layout-700: #6b6b6b;
+    --denotative-error-600: #ff1f00;
+    --color-darkturquoise: #1abacc;
+  
+   

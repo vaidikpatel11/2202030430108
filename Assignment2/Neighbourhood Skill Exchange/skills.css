@@ -1,0 +1,1053 @@
+.skillshare-logo-1-icon1 {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    object-fit: cover;
+  }
+  .logo4 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-4xs) 0 0;
+  }
+  .frame-skillshare-logo {
+    height: 1px;
+    width: 2px;
+    position: relative;
+    border-top: 1px solid var(--b1);
+    box-sizing: border-box;
+    opacity: 0;
+  }
+  .home6 {
+    position: relative;
+    text-transform: capitalize;
+    margin-left: -2px;
+  }
+  .nav14 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+  }
+  .home7 {
+    position: relative;
+    text-transform: capitalize;
+  }
+  .frame-top-bottom {
+    width: 15px;
+    height: 1px;
+    position: relative;
+    border-top: 1px solid var(--b1);
+    box-sizing: border-box;
+  }
+  .nav15 {
+    height: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .home8 {
+    position: relative;
+    text-transform: capitalize;
+    white-space: nowrap;
+  }
+  .nav1-inner {
+    height: 1px;
+    width: 2px;
+    position: relative;
+    border-top: 1px solid var(--b1);
+    box-sizing: border-box;
+    opacity: 0;
+    margin-left: -2px;
+  }
+  .nav16 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+  }
+  .home9 {
+    position: relative;
+    text-transform: capitalize;
+    white-space: nowrap;
+  }
+  .line-div {
+    height: 1px;
+    width: 2px;
+    position: relative;
+    border-top: 1px solid var(--b1);
+    box-sizing: border-box;
+    opacity: 0;
+    margin-left: -2px;
+  }
+  .nav17 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+  }
+  .frame-nav,
+  .home-line {
+    display: flex;
+    align-items: flex-start;
+  }
+  .home-line {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 var(--padding-10xs) 0 0;
+    gap: var(--gap-xl);
+  }
+  .frame-nav {
+    flex: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: var(--padding-11xs) var(--padding-12xs) 0 0;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .login1 {
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  .footer-frame {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 var(--padding-11xs);
+  }
+  .signup3 {
+    position: relative;
+    font-size: var(--nav-1-size);
+    text-transform: capitalize;
+    font-weight: 600;
+    font-family: var(--nav-1);
+    color: var(--color-white);
+    text-align: left;
+  }
+  .card-frame,
+  .signup2 {
+    display: flex;
+    flex-direction: row;
+  }
+  .signup2 {
+    cursor: pointer;
+    border: 0;
+    padding: var(--padding-8xs);
+    background-color: var(--p1);
+    flex: 1;
+    border-radius: var(--br-8xs);
+    align-items: center;
+    justify-content: center;
+  }
+  .signup2:hover {
+    background-color: var(--color-darkturquoise);
+  }
+  .card-frame {
+    width: 187px;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 0 50px;
+    font-size: var(--input-size);
+    color: var(--p1);
+  }
+  .frame-frame,
+  .nav-home {
+    display: flex;
+    flex-direction: row;
+    max-width: 100%;
+  }
+  .nav-home {
+    width: 786px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0 164px;
+  }
+  .frame-frame {
+    align-self: stretch;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: var(--gap-xl);
+    text-align: left;
+    font-size: var(--nav-1-size);
+    color: var(--b1);
+    font-family: var(--nav-1);
+  }
+  .list-of-available {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    text-transform: capitalize;
+    font-weight: 600;
+    font-family: inherit;
+  }
+  .features-frame {
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0 0 0 7px;
+    box-sizing: border-box;
+  }
+  .features-frame,
+  .frame-home,
+  .frame-skills {
+    display: flex;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .frame-skills {
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+    gap: 75px 0;
+  }
+  .frame-home {
+    width: 1268px;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0 55px 505px var(--padding-xl);
+    box-sizing: border-box;
+    text-align: center;
+    font-size: var(--font-size-29xl);
+    color: var(--b2);
+    font-family: var(--font-advent-pro);
+  }
+  .subtitle-text-icon {
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+    border-radius: var(--br-mini);
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .gaming {
+    width: 79px;
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    box-sizing: border-box;
+    padding-right: var(--padding-xl);
+  }
+  .card-11 {
+    height: 414px;
+    width: 274px;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 30px 0;
+  }
+  .card2-item {
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+    border-radius: var(--br-mini);
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .writing {
+    width: 76px;
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    box-sizing: border-box;
+    padding-right: var(--padding-xl);
+  }
+  .card21 {
+    height: 414px;
+    width: 274px;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 30px 0;
+  }
+  .card3-item {
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+    border-radius: var(--br-mini);
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .sports {
+    width: 71px;
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    box-sizing: border-box;
+    padding-right: var(--padding-xl);
+  }
+  .card31 {
+    height: 414px;
+    width: 274px;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 30px 0;
+  }
+  .card4-item {
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+    border-radius: var(--br-mini);
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .photography {
+    width: 116px;
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    box-sizing: border-box;
+    padding-right: var(--padding-xl);
+  }
+  .card41 {
+    height: 414px;
+    width: 274px;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 30px 0;
+  }
+  .card-1-child {
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+    border-radius: var(--br-mini);
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .martial-arts {
+    width: 110px;
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    box-sizing: border-box;
+    padding-right: var(--padding-xl);
+  }
+  .card-12 {
+    height: 414px;
+    width: 274px;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 30px 0;
+  }
+  .card2-inner {
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+    border-radius: var(--br-mini);
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .trading {
+    width: 74px;
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    box-sizing: border-box;
+    padding-right: var(--padding-xl);
+  }
+  .card22 {
+    height: 414px;
+    width: 274px;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 30px 0;
+  }
+  .card3-inner {
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+    border-radius: var(--br-mini);
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .hiking {
+    width: 70px;
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    box-sizing: border-box;
+    padding-right: var(--padding-xl);
+  }
+  .card32 {
+    height: 414px;
+    width: 274px;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 30px 0;
+  }
+  .card4-inner {
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+    border-radius: var(--br-mini);
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .content-creation {
+    width: 145px;
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    box-sizing: border-box;
+    padding-right: var(--padding-xl);
+  }
+  .card42,
+  .cards-frame,
+  .container-frame {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .card42 {
+    height: 414px;
+    width: 274px;
+    flex-shrink: 0;
+    flex-direction: column;
+    gap: 30px 0;
+  }
+  .cards-frame,
+  .container-frame {
+    flex-direction: row;
+    max-width: 100%;
+  }
+  .cards-frame {
+    align-self: stretch;
+    width: 1156px;
+    overflow-x: auto;
+    flex-shrink: 0;
+    flex-wrap: wrap;
+    gap: 77px 16px;
+  }
+  .container-frame {
+    height: 905px;
+    padding: 0 0 0 var(--padding-3xs);
+    box-sizing: border-box;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--b1);
+    font-family: var(--font-advent-pro);
+  }
+  .bottom5,
+  .v-yage2 {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .bottom5 {
+    margin: 0 !important;
+    bottom: 0;
+    left: -10px;
+    background-color: var(--p1);
+  }
+  .v-yage2 {
+    left: 0;
+    letter-spacing: 0.08em;
+    line-height: 122.34%;
+    font-weight: 500;
+    white-space: pre-wrap;
+    display: inline-block;
+  }
+  .reshot-icon-travel-abroad-uhrq2 {
+    position: absolute;
+    top: 10px;
+    left: 27px;
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+  }
+  .get-out-and2,
+  .logo6 {
+    position: absolute;
+    left: 0;
+  }
+  .logo6 {
+    top: 0;
+    width: 165px;
+    height: 59px;
+  }
+  .get-out-and2 {
+    top: 63px;
+    font-size: var(--nav-1-size);
+    letter-spacing: 0.08em;
+    line-height: 122.34%;
+    font-weight: 500;
+  }
+  .logo5 {
+    height: 83px;
+    width: 175px;
+    position: relative;
+    display: none;
+    font-size: var(--font-size-29xl);
+    color: var(--color-white);
+  }
+  .quick-links5 {
+    margin: 0;
+    position: relative;
+    font-size: var(--font-size-5xl);
+    letter-spacing: 0.08em;
+    line-height: 122.34%;
+    font-weight: 500;
+    font-family: inherit;
+    color: var(--b2);
+  }
+  .home10 {
+    color: var(--color-white);
+  }
+  .contact-us2,
+  .explore2,
+  .home10,
+  .privacy-policy2,
+  .write-to-us2 {
+    position: relative;
+    letter-spacing: 0.08em;
+    line-height: 122.34%;
+    font-weight: 500;
+  }
+  .privacy-policy2 {
+    width: 103px;
+    display: none;
+  }
+  .quick-links4 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-lgi);
+  }
+  .features5 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: var(--font-size-5xl);
+    letter-spacing: 0.08em;
+    line-height: 122.34%;
+    font-weight: 500;
+    color: var(--b2);
+  }
+  .gallery2,
+  .list-of-tours2,
+  .popular-destination2,
+  .travel-on-a2,
+  .vacation-packages2 {
+    position: absolute;
+    top: 43.93%;
+    left: 0;
+    letter-spacing: 0.08em;
+    line-height: 122.34%;
+    font-weight: 500;
+  }
+  .gallery2,
+  .list-of-tours2,
+  .travel-on-a2,
+  .vacation-packages2 {
+    top: 81.31%;
+  }
+  .gallery2,
+  .list-of-tours2,
+  .travel-on-a2 {
+    top: 118.69%;
+    display: none;
+  }
+  .gallery2,
+  .travel-on-a2 {
+    top: 156.07%;
+  }
+  .travel-on-a2 {
+    top: 193.46%;
+  }
+  .features4 {
+    height: 107px;
+    width: 145px;
+    position: relative;
+    display: none;
+  }
+  .follow-us2 {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    letter-spacing: 0.08em;
+    line-height: 122.34%;
+    font-weight: 500;
+    font-family: inherit;
+  }
+  .icons8-facebook-32-12 {
+    height: 32px;
+    width: 32px;
+    position: relative;
+    object-fit: cover;
+  }
+  .icons8-instagram-circle-14,
+  .icons8-twitter-12 {
+    height: 30px;
+    width: 30px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .icons8-twitter-12 {
+    height: 45px;
+    width: 45px;
+  }
+  .social-media-icon-frame1 {
+    flex: 1;
+    flex-direction: row;
+    align-items: center;
+  }
+  .icon2,
+  .social-media-icon-frame,
+  .social-media-icon-frame1 {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .social-media-icon-frame {
+    align-self: stretch;
+    flex-direction: row;
+    align-items: center;
+    gap: 0 11px;
+  }
+  .icon2 {
+    width: 118px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--gap-8xs);
+    font-size: var(--font-size-5xl);
+    color: var(--b2);
+  }
+  .icons8-instagram-circle-15 {
+    height: 30px;
+    width: 30px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: none;
+  }
+  .bottom4,
+  .bottomnav2 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .bottomnav2 {
+    width: 628px;
+    justify-content: space-between;
+    gap: var(--gap-xl);
+    z-index: 1;
+  }
+  .bottom4 {
+    align-self: stretch;
+    justify-content: flex-end;
+    padding: var(--padding-67xl) var(--padding-278xl);
+    box-sizing: border-box;
+    position: relative;
+    min-height: 399px;
+  }
+  .bottom7,
+  .v-yage3 {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .bottom7 {
+    margin: 0 !important;
+    bottom: 0;
+    left: -10px;
+    background-color: var(--p1);
+  }
+  .v-yage3 {
+    left: 0;
+    letter-spacing: 0.08em;
+    line-height: 122.34%;
+    font-weight: 500;
+    white-space: pre-wrap;
+    display: inline-block;
+  }
+  .reshot-icon-travel-abroad-uhrq3 {
+    position: absolute;
+    top: 10px;
+    left: 27px;
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+  }
+  .get-out-and3,
+  .logo8 {
+    position: absolute;
+    left: 0;
+  }
+  .logo8 {
+    top: 0;
+    width: 165px;
+    height: 59px;
+  }
+  .get-out-and3 {
+    top: 63px;
+    font-size: var(--nav-1-size);
+    letter-spacing: 0.08em;
+    line-height: 122.34%;
+    font-weight: 500;
+  }
+  .logo7 {
+    height: 83px;
+    width: 175px;
+    position: relative;
+    display: none;
+    font-size: var(--font-size-29xl);
+    color: var(--color-white);
+  }
+  .quick-links7 {
+    margin: 0;
+    position: relative;
+    font-size: var(--font-size-5xl);
+    letter-spacing: 0.08em;
+    line-height: 122.34%;
+    font-weight: 500;
+    font-family: inherit;
+    color: var(--b2);
+  }
+  .home11 {
+    color: var(--color-white);
+  }
+  .contact-us3,
+  .explore3,
+  .home11,
+  .privacy-policy3,
+  .write-to-us3 {
+    position: relative;
+    letter-spacing: 0.08em;
+    line-height: 122.34%;
+    font-weight: 500;
+  }
+  .quick-links6 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-lgi);
+  }
+  .features7 {
+    margin: 0;
+    font-size: var(--font-size-5xl);
+    font-family: inherit;
+    color: var(--b2);
+  }
+  .features7,
+  .gallery3,
+  .list-of-tours3,
+  .popular-destination3,
+  .travel-on-a3,
+  .vacation-packages3 {
+    position: relative;
+    letter-spacing: 0.08em;
+    line-height: 122.34%;
+    font-weight: 500;
+  }
+  .gallery3,
+  .list-of-tours3,
+  .travel-on-a3 {
+    width: 92px;
+    display: none;
+  }
+  .gallery3,
+  .travel-on-a3 {
+    width: 51px;
+  }
+  .travel-on-a3 {
+    width: 133px;
+  }
+  .features6,
+  .writeto-us-link {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .features6 {
+    gap: var(--gap-lgi);
+  }
+  .writeto-us-link {
+    width: 170px;
+  }
+  .follow-us3 {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    letter-spacing: 0.08em;
+    line-height: 122.34%;
+    font-weight: 500;
+    font-family: inherit;
+  }
+  .icons8-facebook-32-13 {
+    height: 32px;
+    width: 32px;
+    position: relative;
+    object-fit: cover;
+  }
+  .icons8-instagram-circle-16,
+  .icons8-twitter-13 {
+    height: 30px;
+    width: 30px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .icons8-twitter-13 {
+    height: 45px;
+    width: 45px;
+  }
+  .skillshare-logo-frame {
+    flex-direction: row;
+    align-items: center;
+  }
+  .follow-us-icon-instagram,
+  .icon3,
+  .skillshare-logo-frame {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .follow-us-icon-instagram {
+    flex-direction: row;
+    align-items: center;
+    gap: 0 11px;
+  }
+  .icon3 {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--gap-8xs);
+    font-size: var(--font-size-5xl);
+    color: var(--b2);
+  }
+  .icons8-instagram-circle-17 {
+    height: 30px;
+    width: 30px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: none;
+  }
+  .bottom6,
+  .bottomnav3 {
+    display: flex;
+    flex-direction: row;
+    max-width: 100%;
+  }
+  .bottomnav3 {
+    width: 628px;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: var(--gap-xl);
+    z-index: 1;
+  }
+  .bottom6 {
+    align-self: stretch;
+    align-items: center;
+    justify-content: flex-end;
+    padding: var(--padding-67xl) var(--padding-278xl);
+    box-sizing: border-box;
+    position: relative;
+    z-index: 3;
+  }
+  .skillshare-logo-3-icon,
+  .skillshare-logo-4-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .skillshare-logo-4-icon {
+    z-index: 4;
+  }
+  .card-rectangle-writing {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    margin: 0 !important;
+    top: 143px;
+    left: 133px;
+  }
+  .container-for-features {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    max-width: 100%;
+    margin-top: -399px;
+  }
+  .skills,
+  .subtitle-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .subtitle-text {
+    align-self: stretch;
+    align-items: flex-start;
+    max-width: 100%;
+    text-align: left;
+    font-size: var(--nav-1-size);
+    color: var(--b6);
+    font-family: var(--font-advent-pro);
+  }
+  .skills {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-white);
+    overflow: hidden;
+    align-items: center;
+    padding: var(--padding-27xl) var(--padding-3xs) 0 0;
+    box-sizing: border-box;
+    gap: 97px 0;
+    letter-spacing: normal;
+  }
+  @media screen and (max-width: 1200px) {
+    .frame-skills {
+      gap: 75px 0;
+    }
+    .frame-home {
+      padding-right: 27px;
+      box-sizing: border-box;
+    }
+    .bottom4,
+    .bottom6 {
+      padding-left: var(--padding-129xl);
+      padding-right: var(--padding-129xl);
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 900px) {
+    .card-frame {
+      display: none;
+    }
+    .nav-home {
+      width: 599px;
+    }
+    .frame-skills {
+      gap: 75px 0;
+    }
+    .frame-home {
+      padding-bottom: 328px;
+      box-sizing: border-box;
+    }
+    .bottom4 {
+      padding-left: var(--padding-55xl);
+      padding-right: var(--padding-55xl);
+      box-sizing: border-box;
+    }
+    .bottomnav3 {
+      flex-wrap: wrap;
+    }
+    .bottom6 {
+      padding-left: var(--padding-55xl);
+      padding-right: var(--padding-55xl);
+      box-sizing: border-box;
+    }
+    .skills {
+      gap: 97px 0;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .nav-home {
+      gap: 0 164px;
+    }
+    .list-of-available {
+      font-size: var(--font-size-10xl);
+    }
+    .content-creation,
+    .gaming,
+    .hiking,
+    .martial-arts,
+    .photography,
+    .sports,
+    .trading,
+    .writing {
+      font-size: var(--nav-1-size);
+    }
+    .v-yage2 {
+      font-size: var(--font-size-10xl);
+      line-height: 35px;
+    }
+    .features5,
+    .follow-us2,
+    .quick-links5 {
+      font-size: var(--font-size-lgi);
+      line-height: 23px;
+    }
+    .bottomnav2 {
+      flex-wrap: wrap;
+    }
+    .bottom4 {
+      padding: var(--padding-37xl) var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .v-yage3 {
+      font-size: var(--font-size-10xl);
+      line-height: 35px;
+    }
+    .features7,
+    .follow-us3,
+    .quick-links7 {
+      font-size: var(--font-size-lgi);
+      line-height: 23px;
+    }
+    .bottom6 {
+      padding: var(--padding-400xl) var(--padding-xl) var(--padding-37xl);
+      box-sizing: border-box;
+    }
+    .skills {
+      gap: 97px 0;
+    }
+  }
